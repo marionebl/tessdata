@@ -1,0 +1,7 @@
+{
+  "lerna": "2.2.0",
+  "packages": [
+    "@tessdata/*"
+  ],
+  "version": "0.0.0"
+}

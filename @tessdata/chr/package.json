@@ -1,0 +1,28 @@
+{
+  "name": "@tessdata/chr",
+  "description": "<lang> tessdata for consumption via npm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marionebl/tessdata.git"
+  },
+  "keywords": [
+    "tesseract",
+    "tessdata"
+  ],
+  "author": "Mario Nebl <hello@mario-nebl.de>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/marionebl/tessdata/issues"
+  },
+  "homepage": "https://github.com/marionebl/tessdata#readme",
+  "devDependencies": {
+    "@marionebl/sander": "^0.6.1",
+    "globby": "^6.1.0",
+    "lerna": "^2.2.0"
+  }
+}
